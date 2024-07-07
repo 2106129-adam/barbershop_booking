@@ -1,16 +1,31 @@
-# barbershop_booking
+# Barbershop Booking App
 
-A new Flutter project.
+Aplikasi ini memungkinkan pengguna untuk membuat, melihat, mengubah, dan menghapus janji temu pangkas rambut.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Membuat janji temu baru
+- Melihat daftar janji temu
+- Mengubah detail janji temu
+- Menghapus janji temu
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Provider (State Management)
+- UUID (Generate ID unik)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cara Menjalankan Aplikasi
+
+1. Clone repository ini.
+2. Buka proyek menggunakan Flutter IDE atau teks editor.
+3. Jalankan perintah `flutter pub get` di terminal untuk menginstal dependencies.
+4. Jalankan aplikasi dengan perintah `flutter run`.
+
+## Kontribusi
+
+- Fork repository ini.
+- Buat branch baru (`git checkout -b fitur-baru`).
+- Commit perubahan (`git commit -am 'Menambahkan fitur baru'`).
+- Push ke branch (`git push origin fitur-baru`).
+- Buat Pull Request.
